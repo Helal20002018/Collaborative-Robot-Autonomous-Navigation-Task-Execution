@@ -32,8 +32,9 @@ Hardware: AgileX Cobot (mobile base + manipulator arm)
 Methods: Autonomous Navigation, Multi-Task Execution, Behavior Trees
 
 📸 Photo:
-![IMG_1486](https://github.com/user-attachments/assets/fd0a895c-5ed1-449c-891c-0d7c0a427b40)
 
+
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/d7e31c5c-e385-45cd-9488-a613954a6f49)
 
 
 
