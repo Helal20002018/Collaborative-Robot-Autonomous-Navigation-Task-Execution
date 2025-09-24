@@ -1,14 +1,15 @@
 # Collaborative-Robot-Autonomous-Navigation-Task-Execution
 
--- Project Overview
+📌 Project Overview
 
 This project was developed on the AgileX Cobot, an autonomous mobile robot equipped with a robotic arm.
 The focus was on upgrading the control system, integrating advanced task execution strategies, and enhancing autonomy using ROS Behavior Trees for multi-task management.
+![cobot](https://github.com/user-attachments/assets/4d0b6095-1992-4402-9531-0f81257d3ecb)
 
 
-![IMG_1486](https://github.com/user-attachments/assets/b9e9cd08-03de-4b83-b362-593f517ed723)
 
--- My Contributions
+
+🔧 My Contributions
 
 Control System Upgrade: Improved the robot’s control architecture for more reliable and responsive navigation.
 
@@ -20,7 +21,7 @@ Robotic Arm Integration: Combined navigation with manipulation tasks to enable a
 
 System Optimization: Tuned navigation and control parameters to achieve smooth task execution in dynamic environments.
 
--- Tools & Technologies
+🛠️ Tools & Technologies
 
 Frameworks: ROS / ROS 2, BehaviorTree.CPP
 
@@ -28,9 +29,15 @@ Hardware: AgileX Cobot (mobile base + manipulator arm)
 
 Methods: Autonomous Navigation, Multi-Task Execution, Behavior Trees
 
+📸 Photo:
+![IMG_1486](https://github.com/user-attachments/assets/fd0a895c-5ed1-449c-891c-0d7c0a427b40)
 
 
--- Outcome
+
+
+
+
+🚀 Outcome
 
 Upgraded the control system for improved navigation and task performance.
 
