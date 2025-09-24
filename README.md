@@ -4,6 +4,7 @@
 
 This project was developed on the AgileX Cobot, an autonomous mobile robot equipped with a robotic arm.
 The focus was on upgrading the control system, integrating advanced task execution strategies, and enhancing autonomy using ROS Behavior Trees for multi-task management.
+
 ![cobot](https://github.com/user-attachments/assets/4d0b6095-1992-4402-9531-0f81257d3ecb)
 
 
